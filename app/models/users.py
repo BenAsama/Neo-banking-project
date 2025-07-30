@@ -3,7 +3,7 @@ class user:
   first_name : str
   last_name : str
   other_names: str
-  account_type : id 
+  account_type : id
   email: str #validate the email is a type of email and 
               #also validate the email in the signup with a code if possible
   mobile_number: int #with country code in the front end
@@ -18,6 +18,7 @@ class user:
   marital_status: str
 
   password: str
+  signature: id
  
 
 
