@@ -1,5 +1,4 @@
-from sqlalchemy import create_engine
-from sqlalchemy import sessionmaker 
+
 class user:
   user_id: int
   first_name : str
