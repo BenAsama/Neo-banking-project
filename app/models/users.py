@@ -1,4 +1,3 @@
-from fastapi import FastAPI
 
 class user:
   user_id: int

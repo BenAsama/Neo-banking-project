@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-  return {'message': 'Welcome to neo banking'}
+  return {'message': 'Welcome to Neo banking'}
